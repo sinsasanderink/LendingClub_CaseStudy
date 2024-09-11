@@ -1,6 +1,8 @@
 # LENDING CLUB CASE STUDY
 > This project aims to leverage Exploratory Data Analysis (EDA) to improve loan approval decisions by accurately predicting the likelihood of applicants defaulting on loans. This involves analyzing a dataset of past loan applications to identify patterns associated with default risks.
 
+![logo](./title.png)
+
 
 ## Table of Contents
 * [General Info](#general-information)
